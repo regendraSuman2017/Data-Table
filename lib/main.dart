@@ -42,7 +42,6 @@ appBar: AppBar(
               color: Colors.black,
               width: 2
             ),
-
             columns: [
               DataColumn(label: Text("Name")),
               DataColumn(label: Text("Email")),
